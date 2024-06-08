@@ -370,7 +370,12 @@ ALL_ENG_NAMES = [
 ]
 
 
-Security_Question_One = ["What is the first name of your best friend in high school?","What was the name of your first pet?","What was the first thing you learned to cook? ","What was the first film you saw in the theater?","Where did you go the first time you flew on a plane?","What is the last name of your favorite elementary school teacher?"]
+Security_Question_One = ["What is the first name of your best friend in high school?",
+"What was the name of your first pet?",
+"What was the first thing you learned to cook? ",
+"What was the first film you saw in the theater?",
+"Where did you go the first time you flew on a plane?",
+"What is the last name of your favorite elementary school teacher?"]
 
 
 Security_Question_Two = ["What is your dream job?",
